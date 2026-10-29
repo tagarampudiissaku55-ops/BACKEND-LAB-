@@ -13,8 +13,8 @@ app.get('/', (req, res) => {
 // GET /about - About route
 app.get('/about', (req, res) => {
     res.status(200).json({
-        name: 'YOUR NAME',
-        section: 'YOUR SECTION'
+        name: 'Issaku',
+        section: 'CSE GAI 2C'
     });
 });
 
