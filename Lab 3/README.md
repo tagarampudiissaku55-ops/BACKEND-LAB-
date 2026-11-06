@@ -13,8 +13,8 @@
 
 | Field               | Details           |
 | ------------------- | ----------------- |
-| Name                | Shanmuk Shahith   |
-| Registration Number | 252U1R9137        |
+| Name                | Issaku Tagarampudi   |
+| Registration Number | 252U1R9155        |
 | Section             | CSE - GEN-AI - 2C |
 
 ## Live Deployment
